@@ -48,5 +48,6 @@ Přidej řádek na konec:
 
 @/home/pi/smart_panel/kiosk.sh
 
+po instalaci je potřeba spustit uceni.py ve kterém je průvodce pro přidání masater card a super card
 
 
